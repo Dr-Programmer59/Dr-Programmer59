@@ -13,42 +13,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there, I'm  Abdulaziz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
+<p>I've worked on 50+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
 
 
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.facebook.com/evilgenius786/">
+<a href="https://www.facebook.com/abdulaziz.abdul.338658/">
     <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
 </a>
 
-<a href="https://www.linkedin.com/in/evil-genius/">
+<a href="https://www.linkedin.com/in/abdul-aziz-216a09243/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
-<a href="https://t.me/evilgenius786">
-    <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
-</a>
+
    
 
-<a href="mailto:786hassan777@gmail.com">
+<a href="mailto:programmer.abdulaziz@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
-<a href="https://www.instagram.com/evilgenius786/">
-    <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
-</a>
+
 
     
-<a href="https://api.whatsapp.com/send?phone=923065855647">
+<a href="https://api.whatsapp.com/send?phone=923170527363">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
-<!-- <a href="https://www.fiverr.com/muhammadhassan7">
+<a href="https://www.fiverr.com/abdulaziz389459">
     <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
-</a> -->
+</a> 
 
 
-<a href="https://www.upwork.com/freelancers/muhammadhassan82">
+<a href="https://www.upwork.com/freelancers/~01de2d98debb074cfe">
     <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
 </a>
 </div>
