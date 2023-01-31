@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Top-Rated Freelancer at Upwork
 - ⚡ Data Scraping/Web automation
 - 💻 Android/Windows/Web dev
 - 📑 CS Graduate from Air University, Islamabad.
@@ -66,10 +65,10 @@ Here are some ideas to get you started:
 👉 Data Scraping (Python/bs4/Requests)<br>
 👉 Web Automation (Python/C#/Selenium)<br>
 👉 Android Automation (Python/C#/Appium)<br>
-👉 Android Apps (Java/XML)<br>
+
 👉 Windows desktop Apps (WPF/C#/XAML)<br>
 👉 Web Apps (MEAN Stack)<br>
-👉 API Development (FastAPI/Flask)<br>
+👉 API Development (FastAPI/nodejs)<br>
 <br>
 👉 Multithreaded code<br>
 👉 Output in JSON/CSV/Excel<br>
