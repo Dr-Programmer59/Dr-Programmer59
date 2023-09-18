@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### A CS graduate, Developer & Freelancer
+### A Developer & Freelancer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
